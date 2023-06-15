@@ -1,12 +1,14 @@
 # Shell-finder
-# Tg Channel : https://t.me/crackioff
+# Tg Channel : [https://t.me/the_omerta_store](https://t.me/the_omerta_store)
 
-website : https://cracki.cc
+my tg : @mrhracke
+
+website : None
 
 # Donations : BTC : bc1q5s23s92rudk8zq8hzdwvxmwgquj3pg56nvcpxf
 
 
-reverse shell finder- made by cracki
+reverse shell finder- made by MrHRacke
 
 - easy to use 
 - - pip install colorama
