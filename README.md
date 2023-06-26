@@ -1,7 +1,7 @@
 # Shell-finder
 # Tg Channel : [https://t.me/the_omerta_store](https://t.me/the_omerta_store)
 
-my tg : @mrhracke
+my tg : [@mrhouse998](https://t.me/mrhouse998)
 
 website : None
 
